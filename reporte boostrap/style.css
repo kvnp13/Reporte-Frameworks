@@ -1,0 +1,62 @@
+#header {
+    padding: 0;
+}
+.navbar-brand {
+    margin-right: 0px;
+}
+.navbar-nav {
+    padding-left: 0;
+}
+.navbar-nav .nav-item {
+    margin-right: 10px;
+}
+#footer{
+    background-color: bisque;
+}
+#footer p{
+    color: black;
+}
+.franjanaranja {
+    background-color: rgb(255, 119, 0);
+    text-align: center;
+    padding: 1vh;
+}
+.nav li {
+    display: inline-block;
+    margin: 8px;
+    text-align: center; 
+}
+.nav a {
+    color: black;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.texto {
+    background-color: #845100;
+    padding: 2vw;
+    margin: 40px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+.subtitulo {
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.contenedor-imagen {
+    width: 100%;
+    max-width: 100%;
+}
+.contenedor-imagen img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
